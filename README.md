@@ -138,6 +138,5 @@ After running mini-batch SGRLD for S-AGM, to produce plots in the paper,
 The plots (Fig. 11 in the paper) are stored in ``S-AGM/TensorflowSGRLD/Plots/``.
 
 # OUTPUT
-After running the codes, the outputs (plots) are stored in 
-``S-AGM/MatlabComparison/Plots/`` for small networks from
+After running the codes, the outputs (plots) are stored in ``S-AGM/MatlabComparison/Plots/`` for small networks from
 Matlab codes and ``S-AGM/TensorflowSGRLD/Plots/`` for larger networks from Tensorflow codes.
