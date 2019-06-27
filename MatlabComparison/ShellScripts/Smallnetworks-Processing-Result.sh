@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-# Figure 1 in paper (Pluralistic Homophily)
+# Fig. 5: Pluralistic Homophily by AGM and S-AGM
 nohup /Applications/MATLAB_R2017a.app/bin/matlab -nodisplay < ../ProcessingResult/PluralisticHomophily.m > ./output.log
 
-# Figure 2 and 3 in paper
+# Figure 6 and 7 in paper (Trace plots)
 python ../ProcessingResult/TracePlots.py > ./output.log
 
-# Figure 4 in paper (Football network)
+# Fig. 8: Communities for Football network.
 nohup /Applications/MATLAB_R2017a.app/bin/matlab -nodisplay < ../ProcessingResult/Football.m > ./output.log
 
-# Table 1 in paper 
+# Table 1: AUC-ROC 
 nohup /Applications/MATLAB_R2017a.app/bin/matlab -nodisplay < ../ProcessingResult/RealnetworkAucTable.m > ./table1.log
