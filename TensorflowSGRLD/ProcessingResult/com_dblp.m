@@ -54,6 +54,7 @@ l.FontSize = 18;
 set(gcf, 'units','normalized','outerposition',[0 0 1 0.5]);
 saveas(gcf,out_file,'fig');
 saveas(gcf, out_file, 'jpeg');
+saveas(gcf, out_file, 'epsc');
 clear all;
 hold off;
 %---------------------------%

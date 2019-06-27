@@ -9,46 +9,18 @@ To get started, type one of these: helpwin, helpdesk, or demo.
 For product information, visit www.mathworks.com.
  
 >> >> >> >> >> >> >> >> rm: *.npy: No such file or directory
->> >> >> Archive:  ../Results/ca-HepPhSeed0L1000M1000K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
+>> >> Archive:  ../Results/com-dblpSeed0L4096M32K2048burn_in25000samples25000test_ratio0.1.npz
+ extracting: AvgAUC.npy              
  extracting: TestAUCvector.npy       
  extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L500M500K50test_ratio0.1Time.npz
  extracting: TrainAUCvector.npy      
+ extracting: TrainPPvector.npy       
+ extracting: TimeVector.npy          
+>> >> >> >> >> Archive:  ../Results/com-dblpSeed0L4096M32K2048burn_in25000samples25000test_ratio0.1.npz
+ extracting: AvgAUC.npy              
  extracting: TestAUCvector.npy       
  extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L100M100K50test_ratio0.1Time.npz
  extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
  extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L5M5K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
->> >> >> >> >> Archive:  ../Results/ca-HepPhSeed0L1000M1000K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L500M500K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L100M100K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
-Archive:  ../Results/ca-HepPhSeed0L5M5K50test_ratio0.1Time.npz
- extracting: TrainAUCvector.npy      
- extracting: TestAUCvector.npy       
- extracting: TestPPvector.npy        
- extracting: TrainPPvector.npy       
->> >> >> >> >> >> >> >> {Undefined function or variable 'out_file'.
-} 
->> >> 
+ extracting: TimeVector.npy          
+>> >> >> >> >> >> >> >> >> >> 
