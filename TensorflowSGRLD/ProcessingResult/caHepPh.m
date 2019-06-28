@@ -58,7 +58,7 @@ for network_iter = 1:length(Network)
 end
 l = legend("Mini-batch = 1000","Mini-batch = 500","Mini-batch = 100","Mini-batch = 5",'Location','northeast');
 l.FontSize = 18;
-set(gcf, 'units','normalized','outerposition',[0 0 1 1]);
+set(gcf, 'units','normalized','outerposition',[0 0 1 0.5]);
 saveas(gcf, out_file, 'fig');
 saveas(gcf, out_file, 'jpeg');
 saveas(gcf, out_file, 'epsc');
